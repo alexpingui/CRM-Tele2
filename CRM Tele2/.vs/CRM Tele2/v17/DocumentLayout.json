@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\outgoingcall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|solutionrelative:outgoingcall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\outgoingcall.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8838684D-8A1A-4A3A-91F9-6E99F38DBF43}|CRM Tele2.csproj|solutionrelative:outgoingcall.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:23:24.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T06:54:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:54:02.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutGoingCall.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\OutGoingCall.xaml.cs",
+              "RelativeDocumentMoniker": "OutGoingCall.xaml.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\OutGoingCall.xaml.cs",
+              "RelativeToolTip": "OutGoingCall.xaml.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAD4v6UAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:18:10.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutGoingCall.xaml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\OutGoingCall.xaml",
+              "RelativeDocumentMoniker": "OutGoingCall.xaml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2\\OutGoingCall.xaml",
+              "RelativeToolTip": "OutGoingCall.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T06:05:26.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
